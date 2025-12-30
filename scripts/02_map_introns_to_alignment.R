@@ -12,10 +12,6 @@
 #        - a tidy table of introns mapped to alignment columns
 #        - a wide binary presence/absence matrix (genes × sites)
 #
-# This script is intentionally generic so users can adapt:
-#   - input file names
-#   - column names
-#   - output formats
 #
 # Requirements:
 #   Biostrings, dplyr, readr, tidyr, purrr, tibble

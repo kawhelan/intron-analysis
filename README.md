@@ -7,3 +7,5 @@ This repository contains scripts, minimal input data, and documentation used for
 An Exonerate-based pipeline is included to align peptide sequences to genomic loci, generate standardized gene models, and extract intron coordinates for downstream comparative analyses.
 
 An R script is included to map intron positions onto a protein MSA and generate binary intron presence/absence matrices for downstream comparative analyses.
+
+An R script is included to visualize intron presence/absence patterns across genes as a heatmap from a binary intron matrix.

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ============================================================
-# Generic Exonerate → GFF3 cleanup → intron table → peptide MSA
+# Exonerate → GFF3 cleanup → intron table → peptide MSA
 # ------------------------------------------------------------
 # What this does:
 #   1) For each locus, align a peptide to its genomic sequence with exonerate
