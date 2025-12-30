@@ -2,10 +2,12 @@
 
 Comparative analysis of intron position conservation across CESA, CSLD, and related cellulose synthase–like genes in land plants and green algae.
 
-This repository contains scripts, minimal input data, and documentation used for intron mapping, alignment-based homology assessment, and permutation-based conservation tests.
+This repository contains scripts, minimal input data, and documentation used for intron mapping, alignment-based homology assessment, and permutation-based conservation tests:
 
-An Exonerate-based pipeline is included to align peptide sequences to genomic loci, generate standardized gene models, and extract intron coordinates for downstream comparative analyses.
+An Exonerate-based pipeline is included to align peptide sequences to genomic loci, generate standardized    gene models, and extract intron coordinates for downstream comparative analyses.
 
 An R script is included to map intron positions onto a protein MSA and generate binary intron presence/absence matrices for downstream comparative analyses.
 
 An R script is included to visualize intron presence/absence patterns across genes as a heatmap from a binary intron matrix.
+
+An R script performs permutation-based tests of intron positional conservation using intron presence/absence matrices.
