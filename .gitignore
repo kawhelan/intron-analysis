@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+results/
+*.png
+*.pdf
+*.xlsx
+*.tsv
+*.csv
+*.fasta
+*.aln
+*.log
