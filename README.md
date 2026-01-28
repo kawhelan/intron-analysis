@@ -2,12 +2,21 @@
 
 Comparative analysis of intron position conservation across CESA, CSLD, and related cellulose synthase–like genes in land plants and green algae.
 
-This repository contains scripts, minimal input data, and documentation used for intron mapping, alignment-based homology assessment, and permutation-based conservation tests:
+This repository contains scripts, minimal input data, and documentation for extracting intron coordinates, mapping introns onto protein alignments, assessing positional conservation, and visualizing intron distributions across gene families.
 
-An Exonerate-based pipeline is included to align peptide sequences to genomic loci, generate standardized    gene models, and extract intron coordinates for downstream comparative analyses.
+Included workflows:
 
-An R script is included to map intron positions onto a protein MSA and generate binary intron presence/absence matrices for downstream comparative analyses.
+Exonerate-based intron extraction
+A shell pipeline aligns peptide sequences to genomic loci, generates standardized GFF3 gene models, extracts intron coordinates, and builds peptide multiple-sequence alignments.
 
-An R script is included to visualize intron presence/absence patterns across genes as a heatmap from a binary intron matrix.
+Intron-to-alignment mapping and matrix construction
+An R script maps intron positions onto a protein multiple-sequence alignment and produces both tidy intron position tables and binary intron presence/absence matrices.
 
-An R script performs permutation-based tests of intron positional conservation using intron presence/absence matrices.
+Intron presence heatmap visualization
+An R script visualizes intron presence/absence patterns across genes as a heatmap from a binary intron matrix.
+
+Permutation-based conservation testing
+An R script evaluates intron positional conservation using permutation tests based on intron presence/absence matrices.
+
+Alignment-based intron confidence scoring
+An R script computes gap fraction and Shannon entropy around intron positions in the alignment and assigns confidence categories to intron mappings.
