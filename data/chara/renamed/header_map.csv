@@ -1,0 +1,17 @@
+file_in,file_out,gene,type,old_id,new_id
+data/chara/Chabra1336528_genomic.fasta,data/chara/renamed/Chabra1336528_genomic_renamed.fasta,Chabra1336528,genomic,jgi|Chabra1|336528|rna-CBR_g31707_genomic,Chabra1336528
+data/chara/Chabra1336528_protein.fasta,data/chara/renamed/Chabra1336528_protein_renamed.fasta,Chabra1336528,pep,jgi|Chabra1|336528|rna-CBR_g31707_protein,Chabra1336528
+data/chara/Chabra1338734_genomic.fasta,data/chara/renamed/Chabra1338734_genomic_renamed.fasta,Chabra1338734,genomic,jgi|Chabra1|338734|rna-CBR_g31305_genomic,Chabra1338734
+data/chara/Chabra1338734_protein.fasta,data/chara/renamed/Chabra1338734_protein_renamed.fasta,Chabra1338734,pep,jgi|Chabra1|338734|rna-CBR_g31305_protein,Chabra1338734
+data/chara/Chabra1338737_genomic.fasta,data/chara/renamed/Chabra1338737_genomic_renamed.fasta,Chabra1338737,genomic,jgi|Chabra1|338737|rna-CBR_g31308_genomic,Chabra1338737
+data/chara/Chabra1338737_protein.fasta,data/chara/renamed/Chabra1338737_protein_renamed.fasta,Chabra1338737,pep,jgi|Chabra1|338737|rna-CBR_g31308_protein,Chabra1338737
+data/chara/Chabra1341298_genomic.fasta,data/chara/renamed/Chabra1341298_genomic_renamed.fasta,Chabra1341298,genomic,jgi|Chabra1|341298|rna-CBR_g38962_genomic,Chabra1341298
+data/chara/Chabra1341298_protein.fasta,data/chara/renamed/Chabra1341298_protein_renamed.fasta,Chabra1341298,pep,jgi|Chabra1|341298|rna-CBR_g38962_protein,Chabra1341298
+data/chara/Chabra1341630_genomic.fasta,data/chara/renamed/Chabra1341630_genomic_renamed.fasta,Chabra1341630,genomic,jgi|Chabra1|341630|rna-CBR_g36336_genomic                ,Chabra1341630
+data/chara/Chabra1341630_protein.fasta,data/chara/renamed/Chabra1341630_protein_renamed.fasta,Chabra1341630,pep,jgi|Chabra1|341630|rna-CBR_g36336_protein,Chabra1341630
+data/chara/Chabra1345142_genomic.fasta,data/chara/renamed/Chabra1345142_genomic_renamed.fasta,Chabra1345142,genomic,jgi|Chabra1|345142|rna-CBR_g45235_genomic,Chabra1345142
+data/chara/Chabra1345142_protein.fasta,data/chara/renamed/Chabra1345142_protein_renamed.fasta,Chabra1345142,pep,jgi|Chabra1|345142|rna-CBR_g45235_protein,Chabra1345142
+data/chara/Chabra1351634_genomic.fasta,data/chara/renamed/Chabra1351634_genomic_renamed.fasta,Chabra1351634,genomic,jgi|Chabra1|351634|rna-CBR_g49201_genomic,Chabra1351634
+data/chara/Chabra1351634_protein.fasta,data/chara/renamed/Chabra1351634_protein_renamed.fasta,Chabra1351634,pep,jgi|Chabra1|351634|rna-CBR_g49201_protein,Chabra1351634
+data/chara/Chabra1351942_genomic.fasta,data/chara/renamed/Chabra1351942_genomic_renamed.fasta,Chabra1351942,genomic,jgi|Chabra1|351942|rna-CBR_g63086_genomic    ,Chabra1351942
+data/chara/Chabra1351942_protein.fasta,data/chara/renamed/Chabra1351942_protein_renamed.fasta,Chabra1351942,pep,jgi|Chabra1|351942|rna-CBR_g63086_protein,Chabra1351942

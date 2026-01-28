@@ -1,0 +1,11 @@
+file_in,file_out,gene,type,old_id,new_id
+data/zygnema/Zygcir10866_genomic.fasta,data/zygnema/renamed/Zygcir10866_genomic_renamed.fasta,Zygcir10866,genomic,jgi|Zygcir6981b_2|10866|Zci_03055.2_genomic,Zygcir10866
+data/zygnema/Zygcir10866_protein.fasta,data/zygnema/renamed/Zygcir10866_protein_renamed.fasta,Zygcir10866,pep,jgi|Zygcir6981b_2|10866|Zci_03055.2_protein,Zygcir10866
+data/zygnema/Zygcir12972_genomic.fasta,data/zygnema/renamed/Zygcir12972_genomic_renamed.fasta,Zygcir12972,genomic,jgi|Zygcir6981b_2|12972|Zci_04468.3_genomic,Zygcir12972
+data/zygnema/Zygcir12972_protein.fasta,data/zygnema/renamed/Zygcir12972_protein_renamed.fasta,Zygcir12972,pep,jgi|Zygcir6981b_2|12972|Zci_04468.3_protein,Zygcir12972
+data/zygnema/Zygcyl2367_genomic.fasta,data/zygnema/renamed/Zygcyl2367_genomic_renamed.fasta,Zygcyl2367,genomic,jgi|Zygcyl6981a_1|2367|Zci1a_35641.1_genomic,Zygcyl2367
+data/zygnema/Zygcyl2367_protein.fasta,data/zygnema/renamed/Zygcyl2367_protein_renamed.fasta,Zygcyl2367,pep,jgi|Zygcyl6981a_1|2367|Zci1a_35641.1_protein,Zygcyl2367
+data/zygnema/Zygcyl28080_genomic.fasta,data/zygnema/renamed/Zygcyl28080_genomic_renamed.fasta,Zygcyl28080,genomic,jgi|Zygcyl6981a_1|28080|Zci1a_04168.1_genomic,Zygcyl28080
+data/zygnema/Zygcyl28080_protein.fasta,data/zygnema/renamed/Zygcyl28080_protein_renamed.fasta,Zygcyl28080,pep,jgi|Zygcyl6981a_1|28080|Zci1a_04168.1_protein,Zygcyl28080
+data/zygnema/Zygcyl32400_genomic.fasta,data/zygnema/renamed/Zygcyl32400_genomic_renamed.fasta,Zygcyl32400,genomic,jgi|Zygcyl6981a_1|32400|Zci1a_20535.1_genomic,Zygcyl32400
+data/zygnema/Zygcyl32400_protein.fasta,data/zygnema/renamed/Zygcyl32400_protein_renamed.fasta,Zygcyl32400,pep,jgi|Zygcyl6981a_1|32400|Zci1a_20535.1_protein,Zygcyl32400

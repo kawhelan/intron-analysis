@@ -1,13 +1,32 @@
-.Rproj.user
+# R / RStudio
 .Rhistory
 .RData
 .Ruserdata
+*.Rproj.user/
+.Rproj.user/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local envs
+venv/
+.venv/
+renv/library/
+renv/python/
+renv/staging/
+renv.lock
+
+# Outputs / big intermediates (keep out of git)
 results/
-*.png
-*.pdf
-*.xlsx
-*.tsv
-*.csv
-*.fasta
-*.aln
+output/
+tmp/
+cache/
+*.html
+
+# Logs
 *.log
+*.fai
+
+# Keep common scientific inputs TRACKED (do NOT ignore):
+# .csv, .tsv, .fasta, .gff, .bed, etc.

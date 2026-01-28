@@ -1,0 +1,7 @@
+file_in,file_out,gene,type,old_id,new_id
+data/choleochaete/choleocsld1_cds.fasta,data/choleochaete/renamed/choleocsld1_cds_renamed.fasta,choleocsld1,cds,"gi|695131977|gb|KF928161.1|Coleochaete-orbicularis-putative-cellulosesynthase-likeD1(CSLD1)mRNA,completecds",choleocsld1
+data/choleochaete/choleocsld1_peptide.fasta,data/choleochaete/renamed/choleocsld1_peptide_renamed.fasta,choleocsld1,pep,gi|695131978|gb|AIS92558.1|putative_cellulosesynthase-likeD1[Coleochaete_orbicularis],choleocsld1
+data/choleochaete/choleocsld2_cds.fasta,data/choleochaete/renamed/choleocsld2_cds_renamed.fasta,choleocsld2,cds,"gi|695131979|gb|KF928162.1|Coleochaete_orbicularis_putative_cellulose_synthase-likeD2(CSLD2)_mRNA,complete_cds",choleocsld2
+data/choleochaete/choleocsld2_peptide.fasta,data/choleochaete/renamed/choleocsld2_peptide_renamed.fasta,choleocsld2,pep,gi|695131980|gb|AIS92559.1|putative_cellulose_synthase-likeD2_[Coleochaete_orbicularis],choleocsld2
+data/choleochaete/csld1_genomic.fasta,data/choleochaete/renamed/csld1_genomic_renamed.fasta,csld1,genomic,csld1,csld1
+data/choleochaete/csld2_genomic.fasta,data/choleochaete/renamed/csld2_genomic_renamed.fasta,csld2,genomic,CoCslD2_complete,csld2

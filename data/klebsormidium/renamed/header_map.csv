@@ -1,0 +1,11 @@
+file_in,file_out,gene,type,old_id,new_id
+data/klebsormidium/kfl002340060_cds.fasta,data/klebsormidium/renamed/kfl002340060_cds_renamed.fasta,kfl002340060,cds,kfl00234_0060_v1.1,kfl002340060
+data/klebsormidium/kfl002340060_genomic.fasta,data/klebsormidium/renamed/kfl002340060_genomic_renamed.fasta,kfl002340060,genomic,ID=kfl00234_0060_v1.1;Name=kfl00234_0060_v1.1;Note=prediction::kfl00234:48549-62833(+),kfl002340060
+data/klebsormidium/kfl004590080_cds.fasta,data/klebsormidium/renamed/kfl004590080_cds_renamed.fasta,kfl004590080,cds,kfl00459_0080_v1.1,kfl004590080
+data/klebsormidium/kfl004590080_genomic.fasta,data/klebsormidium/renamed/kfl004590080_genomic_renamed.fasta,kfl004590080,genomic,ID=kfl00459_0080_v1.1;Name=kfl00459_0080_v1.1;Note=prediction::kfl00459:40702-50186(+),kfl004590080
+data/klebsormidium/kfl004590100_cds.fasta,data/klebsormidium/renamed/kfl004590100_cds_renamed.fasta,kfl004590100,cds,kfl00459_0100_v1.1,kfl004590100
+data/klebsormidium/kfl004590100_genomic.fasta,data/klebsormidium/renamed/kfl004590100_genomic_renamed.fasta,kfl004590100,genomic,ID=kfl00459_0100_v1.1;Name=kfl00459_0100_v1.1;Note=prediction::kfl00459:58784-68011(-),kfl004590100
+data/klebsormidium/kfl007660040_cds.fasta,data/klebsormidium/renamed/kfl007660040_cds_renamed.fasta,kfl007660040,cds,kfl00766_0040_v1.1,kfl007660040
+data/klebsormidium/kfl007660040_genomic.fasta,data/klebsormidium/renamed/kfl007660040_genomic_renamed.fasta,kfl007660040,genomic,ID=kfl00766_0040_v1.1;Name=kfl00766_0040_v1.1;Note=prediction::kfl00766:26044-33353(+),kfl007660040
+data/klebsormidium/kfl008890040_cds.fasta,data/klebsormidium/renamed/kfl008890040_cds_renamed.fasta,kfl008890040,cds,kfl00889_0040_v1.1,kfl008890040
+data/klebsormidium/kfl008890040_genomic.fasta,data/klebsormidium/renamed/kfl008890040_genomic_renamed.fasta,kfl008890040,genomic,ID=kfl00889_0040_v1.1;Name=kfl00889_0040_v1.1;Note=prediction::kfl00889:9597-21741(+),kfl008890040

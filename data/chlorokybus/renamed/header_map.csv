@@ -1,0 +1,7 @@
+file_in,file_out,gene,type,old_id,new_id
+data/chlorokybus/Chlat11752_genomic.fasta,data/chlorokybus/renamed/Chlat11752_genomic_renamed.fasta,Chlat11752,genomic,jgi|Chlat1_1|1752|Chrsp134S08684_genomic,Chlat11752
+data/chlorokybus/Chlat11752_protein.fasta,data/chlorokybus/renamed/Chlat11752_protein_renamed.fasta,Chlat11752,pep,jgi|Chlat1_1|1752|Chrsp134S08684_protein,Chlat11752
+data/chlorokybus/Chlat1638_genomic.fasta,data/chlorokybus/renamed/Chlat1638_genomic_renamed.fasta,Chlat1638,genomic,jgi|Chlat1_1|638|Chrsp103S00964_genomic,Chlat1638
+data/chlorokybus/Chlat1638_protein.fasta,data/chlorokybus/renamed/Chlat1638_protein_renamed.fasta,Chlat1638,pep,jgi|Chlat1_1|638|Chrsp103S00964_protein,Chlat1638
+data/chlorokybus/Chlat19023_genomic.fasta,data/chlorokybus/renamed/Chlat19023_genomic_renamed.fasta,Chlat19023,genomic,jgi|Chlat1_1|9023|Chrsp94S08346_genomic,Chlat19023
+data/chlorokybus/Chlat19023_protein.fasta,data/chlorokybus/renamed/Chlat19023_protein_renamed.fasta,Chlat19023,pep,jgi|Chlat1_1|9023|Chrsp94S08346_protein,Chlat19023

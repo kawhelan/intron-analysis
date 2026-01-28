@@ -1,0 +1,9 @@
+file_in,file_out,gene,type,old_id,new_id
+data/mesotaenium/Mesen110026_genomic.fasta,data/mesotaenium/renamed/Mesen110026_genomic_renamed.fasta,Mesen110026,genomic,jgi|Mesen1_1|10026|ME000073S09304_genomic,Mesen110026
+data/mesotaenium/Mesen110026_peptide.fasta,data/mesotaenium/renamed/Mesen110026_peptide_renamed.fasta,Mesen110026,pep,jgi|Mesen1_1|10026|ME000073S09304_protein,Mesen110026
+data/mesotaenium/Mesen110194_genomic.fasta,data/mesotaenium/renamed/Mesen110194_genomic_renamed.fasta,Mesen110194,genomic,jgi|Mesen1_1|10194|ME000766S09568_genomic,Mesen110194
+data/mesotaenium/Mesen110194_peptide.fasta,data/mesotaenium/renamed/Mesen110194_peptide_renamed.fasta,Mesen110194,pep,jgi|Mesen1_1|10194|ME000766S09568_protein,Mesen110194
+data/mesotaenium/Mesen13465_genomic.fasta,data/mesotaenium/renamed/Mesen13465_genomic_renamed.fasta,Mesen13465,genomic,jgi|Mesen1_1|3465|ME000195S02613_genomic,Mesen13465
+data/mesotaenium/Mesen13465_peptide.fasta,data/mesotaenium/renamed/Mesen13465_peptide_renamed.fasta,Mesen13465,pep,jgi|Mesen1_1|3465|ME000195S02613_protein,Mesen13465
+data/mesotaenium/Mesen18351_genomic.fasta,data/mesotaenium/renamed/Mesen18351_genomic_renamed.fasta,Mesen18351,genomic,jgi|Mesen1_1|8351|ME000463S07803_genomic,Mesen18351
+data/mesotaenium/Mesen18351_peptide.fasta,data/mesotaenium/renamed/Mesen18351_peptide_renamed.fasta,Mesen18351,pep,jgi|Mesen1_1|8351|ME000463S07803_protein,Mesen18351

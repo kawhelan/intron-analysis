@@ -1,0 +1,46 @@
+file_in,file_out,gene,type,old_id,new_id
+data/brachypodium/BdCESA_cds.fasta,data/brachypodium/renamed/BdCESA_cds_renamed.fasta,BdCESA,cds,B.distachyon v3.2|Bradi2g49912.2 CDS,BdCESA
+data/brachypodium/BdCESA_genomic.fasta,data/brachypodium/renamed/BdCESA_genomic_renamed.fasta,BdCESA,genomic,B.distachyon v3.2|Bradi2g49912|Bd2:49693309..49699228 forward,BdCESA
+data/brachypodium/BdCESA_peptide.fasta,data/brachypodium/renamed/BdCESA_peptide_renamed.fasta,BdCESA,pep,B.distachyon v3.2|Bradi2g49912.2.p,BdCESA
+data/brachypodium/BdCESA1_cds.fasta,data/brachypodium/renamed/BdCESA1_cds_renamed.fasta,BdCESA1,cds,B.distachyon v3.2|Bradi2g34240.2 CDS,BdCESA1
+data/brachypodium/BdCESA1_genomic.fasta,data/brachypodium/renamed/BdCESA1_genomic_renamed.fasta,BdCESA1,genomic,B.distachyon v3.2|Bradi2g34240|Bd2:34048378..34054502 forward,BdCESA1
+data/brachypodium/BdCESA1_peptide.fasta,data/brachypodium/renamed/BdCESA1_peptide_renamed.fasta,BdCESA1,pep,B.distachyon v3.2|Bradi2g34240.2.p,BdCESA1
+data/brachypodium/BdCESA10_cds.fasta,data/brachypodium/renamed/BdCESA10_cds_renamed.fasta,BdCESA10,cds,B.distachyon v3.2|Bradi1g36740.2 CDS,BdCESA10
+data/brachypodium/BdCESA10_genomic.fasta,data/brachypodium/renamed/BdCESA10_genomic_renamed.fasta,BdCESA10,genomic,B.distachyon v3.2|Bradi1g36740|Bd1:32540699..32543964 reverse,BdCESA10
+data/brachypodium/BdCESA10_peptide.fasta,data/brachypodium/renamed/BdCESA10_peptide_renamed.fasta,BdCESA10,pep,B.distachyon v3.2|Bradi1g36740.2.p,BdCESA10
+data/brachypodium/BdCESA2related_cds.fasta,data/brachypodium/renamed/BdCESA2related_cds_renamed.fasta,BdCESA2related,cds,B.distachyon v3.2|Bradi1g04597.7 CDS,BdCESA2related
+data/brachypodium/BdCESA2related_genomic.fasta,data/brachypodium/renamed/BdCESA2related_genomic_renamed.fasta,BdCESA2related,genomic,B.distachyon v3.2|Bradi1g04597|Bd1:3083095..3092870 forward,BdCESA2related
+data/brachypodium/BdCESA2related_peptide.fasta,data/brachypodium/renamed/BdCESA2related_peptide_renamed.fasta,BdCESA2related,pep,B.distachyon v3.2|Bradi1g04597.7.p,BdCESA2related
+data/brachypodium/BdCESA3_cds.fasta,data/brachypodium/renamed/BdCESA3_cds_renamed.fasta,BdCESA3,cds,B.distachyon v3.2|Bradi1g02510.3 CDS,BdCESA3
+data/brachypodium/BdCESA3_genomic.fasta,data/brachypodium/renamed/BdCESA3_genomic_renamed.fasta,BdCESA3,genomic,B.distachyon v3.2|Bradi1g02510|Bd1:1698291..1705079 reverse,BdCESA3
+data/brachypodium/BdCESA3_peptide.fasta,data/brachypodium/renamed/BdCESA3_peptide_renamed.fasta,BdCESA3,pep,B.distachyon v3.2|Bradi1g02510.3.p,BdCESA3
+data/brachypodium/BdCESA5_cds.fasta,data/brachypodium/renamed/BdCESA5_cds_renamed.fasta,BdCESA5,cds,B.distachyon v3.2|Bradi1g29060.10 CDS,BdCESA5
+data/brachypodium/BdCESA5_genomic.fasta,data/brachypodium/renamed/BdCESA5_genomic_renamed.fasta,BdCESA5,genomic,B.distachyon v3.2|Bradi1g29060|Bd1:24581719..24588388 forward,BdCESA5
+data/brachypodium/BdCESA5_peptide.fasta,data/brachypodium/renamed/BdCESA5_peptide_renamed.fasta,BdCESA5,pep,B.distachyon v3.2|Bradi1g29060.10.p,BdCESA5
+data/brachypodium/BdCESA6-related_genomic.fasta,data/brachypodium/renamed/BdCESA6-related_genomic_renamed.fasta,BdCESA6-related,genomic,B.distachyon v3.2|Bradi1g53207|Bd1:51747246..51753270 reverse,BdCESA6-related
+data/brachypodium/BdCESA6related_cds.fasta,data/brachypodium/renamed/BdCESA6related_cds_renamed.fasta,BdCESA6related,cds,B.distachyon v3.2|Bradi1g53207.2 CDS,BdCESA6related
+data/brachypodium/BdCESA6related_peptide.fasta,data/brachypodium/renamed/BdCESA6related_peptide_renamed.fasta,BdCESA6related,pep,B.distachyon v3.2|Bradi1g53207.2.p,BdCESA6related
+data/brachypodium/BdCESA7_cds.fasta,data/brachypodium/renamed/BdCESA7_cds_renamed.fasta,BdCESA7,cds,B.distachyon v3.2|Bradi3g28350.1 CDS,BdCESA7
+data/brachypodium/BdCESA7_genomic.fasta,data/brachypodium/renamed/BdCESA7_genomic_renamed.fasta,BdCESA7,genomic,B.distachyon v3.2|Bradi3g28350|Bd3:29408525..29413221 forward,BdCESA7
+data/brachypodium/BdCESA7_peptide.fasta,data/brachypodium/renamed/BdCESA7_peptide_renamed.fasta,BdCESA7,pep,B.distachyon v3.2|Bradi3g28350.1.p,BdCESA7
+data/brachypodium/BdCESA8_cds.fasta,data/brachypodium/renamed/BdCESA8_cds_renamed.fasta,BdCESA8,cds,B.distachyon v3.2|Bradi1g54250.2 CDS,BdCESA8
+data/brachypodium/BdCESA8_genomic.fasta,data/brachypodium/renamed/BdCESA8_genomic_renamed.fasta,BdCESA8,genomic,B.distachyon v3.2|Bradi1g54250|Bd1:52803665..52809745 forward,BdCESA8
+data/brachypodium/BdCESA8_peptide.fasta,data/brachypodium/renamed/BdCESA8_peptide_renamed.fasta,BdCESA8,pep,B.distachyon v3.2|Bradi1g54250.2.p,BdCESA8
+data/brachypodium/BdCESA9_cds.fasta,data/brachypodium/renamed/BdCESA9_cds_renamed.fasta,BdCESA9,cds,B.distachyon v3.2|Bradi4g30540.2 CDS,BdCESA9
+data/brachypodium/BdCESA9_genomic.fasta,data/brachypodium/renamed/BdCESA9_genomic_renamed.fasta,BdCESA9,genomic,B.distachyon v3.2|Bradi4g30540|Bd4:36193143..36198166 forward,BdCESA9
+data/brachypodium/BdCESA9_peptide.fasta,data/brachypodium/renamed/BdCESA9_peptide_renamed.fasta,BdCESA9,pep,B.distachyon v3.2|Bradi4g30540.2.p,BdCESA9
+data/brachypodium/BdCSLD1_cds.fasta,data/brachypodium/renamed/BdCSLD1_cds_renamed.fasta,BdCSLD1,cds,B.distachyon v3.2|Bradi2g03380.1 CDS,BdCSLD1
+data/brachypodium/BdCSLD1_genomic.fasta,data/brachypodium/renamed/BdCSLD1_genomic_renamed.fasta,BdCSLD1,genomic,B.distachyon v3.2|Bradi2g03380|Bd2:2479731..2483513 reverse,BdCSLD1
+data/brachypodium/BdCSLD1_peptide.fasta,data/brachypodium/renamed/BdCSLD1_peptide_renamed.fasta,BdCSLD1,pep,B.distachyon v3.2|Bradi2g03380.1.p,BdCSLD1
+data/brachypodium/BdCSLD2_cds.fasta,data/brachypodium/renamed/BdCSLD2_cds_renamed.fasta,BdCSLD2,cds,B.distachyon v3.2|Bradi1g50170.2 CDS,BdCSLD2
+data/brachypodium/BdCSLD2_genomic.fasta,data/brachypodium/renamed/BdCSLD2_genomic_renamed.fasta,BdCSLD2,genomic,B.distachyon v3.2|Bradi1g50170|Bd1:49004956..49010991 forward,BdCSLD2
+data/brachypodium/BdCSLD2_peptide.fasta,data/brachypodium/renamed/BdCSLD2_peptide_renamed.fasta,BdCSLD2,pep,B.distachyon v3.2|Bradi1g50170.2.p,BdCSLD2
+data/brachypodium/BdCSLD4_cds.fasta,data/brachypodium/renamed/BdCSLD4_cds_renamed.fasta,BdCSLD4,cds,B.distachyon v3.2|Bradi3g22345.1 CDS,BdCSLD4
+data/brachypodium/BdCSLD4_genomic.fasta,data/brachypodium/renamed/BdCSLD4_genomic_renamed.fasta,BdCSLD4,genomic,B.distachyon v3.2|Bradi3g22345|Bd3:21441361..21445595 forward,BdCSLD4
+data/brachypodium/BdCSLD4_peptide.fasta,data/brachypodium/renamed/BdCSLD4_peptide_renamed.fasta,BdCSLD4,pep,B.distachyon v3.2|Bradi3g22345.1.p,BdCSLD4
+data/brachypodium/BdCSLD5_cds.fasta,data/brachypodium/renamed/BdCSLD5_cds_renamed.fasta,BdCSLD5,cds,B.distachyon v3.2|Bradi4g05027.1 CDS,BdCSLD5
+data/brachypodium/BdCSLD5_genomic.fasta,data/brachypodium/renamed/BdCSLD5_genomic_renamed.fasta,BdCSLD5,genomic,B.distachyon v3.2|Bradi4g05027|Bd4:4117333..4122130 forward,BdCSLD5
+data/brachypodium/BdCSLD5_peptide.fasta,data/brachypodium/renamed/BdCSLD5_peptide_renamed.fasta,BdCSLD5,pep,B.distachyon v3.2|Bradi4g05027.1.p,BdCSLD5
+data/brachypodium/BdCSLD5related_cds.fasta,data/brachypodium/renamed/BdCSLD5related_cds_renamed.fasta,BdCSLD5related,cds,B.distachyon v3.2|Bradi3g34490.3 CDS,BdCSLD5related
+data/brachypodium/BdCSLD5related_genomic.fasta,data/brachypodium/renamed/BdCSLD5related_genomic_renamed.fasta,BdCSLD5related,genomic,B.distachyon v3.2|Bradi3g34490|Bd3:36623955..36629209 forward,BdCSLD5related
+data/brachypodium/BdCSLD5related_peptide.fasta,data/brachypodium/renamed/BdCSLD5related_peptide_renamed.fasta,BdCSLD5related,pep,B.distachyon v3.2|Bradi3g34490.3.p,BdCSLD5related

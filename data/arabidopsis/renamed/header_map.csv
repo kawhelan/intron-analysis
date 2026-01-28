@@ -1,0 +1,46 @@
+file_in,file_out,gene,type,old_id,new_id
+data/arabidopsis/AtCESA1_cds.fasta,data/arabidopsis/renamed/AtCESA1_cds_renamed.fasta,AtCESA1,cds,A.thaliana TAIR10|AT4G32410.1 CDS,AtCESA1
+data/arabidopsis/AtCESA1_genomic.fasta,data/arabidopsis/renamed/AtCESA1_genomic_renamed.fasta,AtCESA1,genomic,A.thaliana TAIR10|AT4G32410|Chr4:15640619..15646665 reverse,AtCESA1
+data/arabidopsis/AtCESA1_peptide.fasta,data/arabidopsis/renamed/AtCESA1_peptide_renamed.fasta,AtCESA1,pep,A.thaliana TAIR10|AT4G32410.1,AtCESA1
+data/arabidopsis/AtCESA10_cds.fasta,data/arabidopsis/renamed/AtCESA10_cds_renamed.fasta,AtCESA10,cds,A.thaliana TAIR10|AT2G25540.1 CDS,AtCESA10
+data/arabidopsis/AtCESA10_genomic.fasta,data/arabidopsis/renamed/AtCESA10_genomic_renamed.fasta,AtCESA10,genomic,A.thaliana TAIR10|AT2G25540|Chr2:10866821..10872077 reverse,AtCESA10
+data/arabidopsis/AtCESA10_peptide.fasta,data/arabidopsis/renamed/AtCESA10_peptide_renamed.fasta,AtCESA10,pep,A.thaliana TAIR10|AT2G25540.1,AtCESA10
+data/arabidopsis/AtCESA2_cds.fasta,data/arabidopsis/renamed/AtCESA2_cds_renamed.fasta,AtCESA2,cds,A.thaliana TAIR10|AT4G39350.1 CDS,AtCESA2
+data/arabidopsis/AtCESA2_genomic.fasta,data/arabidopsis/renamed/AtCESA2_genomic_renamed.fasta,AtCESA2,genomic,A.thaliana TAIR10|AT4G39350|Chr4:18296796..18302192 forward,AtCESA2
+data/arabidopsis/AtCESA2_peptide.fasta,data/arabidopsis/renamed/AtCESA2_peptide_renamed.fasta,AtCESA2,pep,A.thaliana TAIR10|AT4G39350.1,AtCESA2
+data/arabidopsis/AtCESA3_cds.fasta,data/arabidopsis/renamed/AtCESA3_cds_renamed.fasta,AtCESA3,cds,A.thaliana TAIR10|AT5G05170.1 CDS,AtCESA3
+data/arabidopsis/AtCESA3_genomic.fasta,data/arabidopsis/renamed/AtCESA3_genomic_renamed.fasta,AtCESA3,genomic,A.thaliana TAIR10|AT5G05170|Chr5:1530173..1535414 reverse,AtCESA3
+data/arabidopsis/AtCESA3_peptide.fasta,data/arabidopsis/renamed/AtCESA3_peptide_renamed.fasta,AtCESA3,pep,A.thaliana TAIR10|AT5G05170.1,AtCESA3
+data/arabidopsis/AtCESA4_cds.fasta,data/arabidopsis/renamed/AtCESA4_cds_renamed.fasta,AtCESA4,cds,A.thaliana TAIR10|AT5G44030.1 CDS,AtCESA4
+data/arabidopsis/AtCESA4_genomic.fasta,data/arabidopsis/renamed/AtCESA4_genomic_renamed.fasta,AtCESA4,genomic,A.thaliana TAIR10|AT5G44030|Chr5:17714644..17719723 forward,AtCESA4
+data/arabidopsis/AtCESA4_peptide.fasta,data/arabidopsis/renamed/AtCESA4_peptide_renamed.fasta,AtCESA4,pep,A.thaliana TAIR10|AT5G44030.1,AtCESA4
+data/arabidopsis/AtCESA5_cds.fasta,data/arabidopsis/renamed/AtCESA5_cds_renamed.fasta,AtCESA5,cds,A.thaliana TAIR10|AT5G09870.1 CDS,AtCESA5
+data/arabidopsis/AtCESA5_genomic.fasta,data/arabidopsis/renamed/AtCESA5_genomic_renamed.fasta,AtCESA5,genomic,A.thaliana TAIR10|AT5G09870|Chr5:3073355..3078262 forward,AtCESA5
+data/arabidopsis/AtCESA5_peptide.fasta,data/arabidopsis/renamed/AtCESA5_peptide_renamed.fasta,AtCESA5,pep,A.thaliana TAIR10|AT5G09870.1,AtCESA5
+data/arabidopsis/AtCESA6_cds.fasta,data/arabidopsis/renamed/AtCESA6_cds_renamed.fasta,AtCESA6,cds,A.thaliana TAIR10|AT5G64740.1 CDS,AtCESA6
+data/arabidopsis/AtCESA6_genomic.fasta,data/arabidopsis/renamed/AtCESA6_genomic_renamed.fasta,AtCESA6,genomic,A.thaliana TAIR10|AT5G64740|Chr5:25881065..25886694 forward,AtCESA6
+data/arabidopsis/AtCESA6_peptide.fasta,data/arabidopsis/renamed/AtCESA6_peptide_renamed.fasta,AtCESA6,pep,A.thaliana TAIR10|AT5G64740.1,AtCESA6
+data/arabidopsis/AtCESA7_cds.fasta,data/arabidopsis/renamed/AtCESA7_cds_renamed.fasta,AtCESA7,cds,A.thaliana TAIR10|AT5G17420.1 CDS,AtCESA7
+data/arabidopsis/AtCESA7_genomic.fasta,data/arabidopsis/renamed/AtCESA7_genomic_renamed.fasta,AtCESA7,genomic,A.thaliana TAIR10|AT5G17420|Chr5:5736629..5741465 reverse,AtCESA7
+data/arabidopsis/AtCESA7_peptide.fasta,data/arabidopsis/renamed/AtCESA7_peptide_renamed.fasta,AtCESA7,pep,A.thaliana TAIR10|AT5G17420.1,AtCESA7
+data/arabidopsis/AtCESA8_cds.fasta,data/arabidopsis/renamed/AtCESA8_cds_renamed.fasta,AtCESA8,cds,A.thaliana TAIR10|AT4G18780.1 CDS,AtCESA8
+data/arabidopsis/AtCESA8_genomic.fasta,data/arabidopsis/renamed/AtCESA8_genomic_renamed.fasta,AtCESA8,genomic,A.thaliana TAIR10|AT4G18780|Chr4:10312623..10316790 reverse,AtCESA8
+data/arabidopsis/AtCESA8_peptide.fasta,data/arabidopsis/renamed/AtCESA8_peptide_renamed.fasta,AtCESA8,pep,A.thaliana TAIR10|AT4G18780.1,AtCESA8
+data/arabidopsis/AtCESA9_cds.fasta,data/arabidopsis/renamed/AtCESA9_cds_renamed.fasta,AtCESA9,cds,A.thaliana TAIR10|AT2G21770.1 CDS,AtCESA9
+data/arabidopsis/AtCESA9_genomic.fasta,data/arabidopsis/renamed/AtCESA9_genomic_renamed.fasta,AtCESA9,genomic,A.thaliana TAIR10|AT2G21770|Chr2:9284836..9289536 forward,AtCESA9
+data/arabidopsis/AtCESA9_peptide.fasta,data/arabidopsis/renamed/AtCESA9_peptide_renamed.fasta,AtCESA9,pep,A.thaliana TAIR10|AT2G21770.1,AtCESA9
+data/arabidopsis/AtCSLD1_cds.fasta,data/arabidopsis/renamed/AtCSLD1_cds_renamed.fasta,AtCSLD1,cds,A.thaliana TAIR10|AT2G33100.1 CDS,AtCSLD1
+data/arabidopsis/AtCSLD1_genomic.fasta,data/arabidopsis/renamed/AtCSLD1_genomic_renamed.fasta,AtCSLD1,genomic,A.thaliana TAIR10|AT2G33100|Chr2:14036318..14040044 reverse,AtCSLD1
+data/arabidopsis/AtCSLD1_peptide.fasta,data/arabidopsis/renamed/AtCSLD1_peptide_renamed.fasta,AtCSLD1,pep,A.thaliana TAIR10|AT2G33100.1,AtCSLD1
+data/arabidopsis/AtCSLD2_cds.fasta,data/arabidopsis/renamed/AtCSLD2_cds_renamed.fasta,AtCSLD2,cds,A.thaliana TAIR10|AT5G16910.1 CDS,AtCSLD2
+data/arabidopsis/AtCSLD2_genomic.fasta,data/arabidopsis/renamed/AtCSLD2_genomic_renamed.fasta,AtCSLD2,genomic,A.thaliana TAIR10|AT5G16910|Chr5:5561678..5565580 forward,AtCSLD2
+data/arabidopsis/AtCSLD2_peptide.fasta,data/arabidopsis/renamed/AtCSLD2_peptide_renamed.fasta,AtCSLD2,pep,A.thaliana TAIR10|AT5G16910.1,AtCSLD2
+data/arabidopsis/AtCSLD3_cds.fasta,data/arabidopsis/renamed/AtCSLD3_cds_renamed.fasta,AtCSLD3,cds,A.thaliana TAIR10|AT3G03050.1 CDS,AtCSLD3
+data/arabidopsis/AtCSLD3_genomic.fasta,data/arabidopsis/renamed/AtCSLD3_genomic_renamed.fasta,AtCSLD3,genomic,A.thaliana TAIR10|AT3G03050|Chr3:687051..691898 forward,AtCSLD3
+data/arabidopsis/AtCSLD3_peptide.fasta,data/arabidopsis/renamed/AtCSLD3_peptide_renamed.fasta,AtCSLD3,pep,A.thaliana TAIR10|AT3G03050.1,AtCSLD3
+data/arabidopsis/AtCSLD4_cds.fasta,data/arabidopsis/renamed/AtCSLD4_cds_renamed.fasta,AtCSLD4,cds,A.thaliana TAIR10|AT4G38190.1 CDS,AtCSLD4
+data/arabidopsis/AtCSLD4_genomic.fasta,data/arabidopsis/renamed/AtCSLD4_genomic_renamed.fasta,AtCSLD4,genomic,A.thaliana TAIR10|AT4G38190|Chr4:17909918..17913641 reverse,AtCSLD4
+data/arabidopsis/AtCSLD4_peptide.fasta,data/arabidopsis/renamed/AtCSLD4_peptide_renamed.fasta,AtCSLD4,pep,A.thaliana TAIR10|AT4G38190.1,AtCSLD4
+data/arabidopsis/AtCSLD5_cds.fasta,data/arabidopsis/renamed/AtCSLD5_cds_renamed.fasta,AtCSLD5,cds,A.thaliana TAIR10|AT1G02730.1 CDS,AtCSLD5
+data/arabidopsis/AtCSLD5_genomic.fasta,data/arabidopsis/renamed/AtCSLD5_genomic_renamed.fasta,AtCSLD5,genomic,A.thaliana TAIR10|AT1G02730|Chr1:594572..598657 reverse,AtCSLD5
+data/arabidopsis/AtCSLD5_peptide.fasta,data/arabidopsis/renamed/AtCSLD5_peptide_renamed.fasta,AtCSLD5,pep,A.thaliana TAIR10|AT1G02730.1,AtCSLD5

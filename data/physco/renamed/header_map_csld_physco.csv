@@ -1,0 +1,25 @@
+file_in,file_out,gene,type,old_id,new_id
+data/physco/CslD1_cds.fasta,data/physco/renamed/CslD1_cds_renamed.fasta,CslD1,cds,P.patens v6.1|Pp6c2_740V6.1 CDS,CslD1
+data/physco/CslD1_genomic.fasta,data/physco/renamed/CslD1_genomic_renamed.fasta,CslD1,genomic,P.patens v6.1|Pp6c2_740|Chr02:786760..793508 forward,CslD1
+data/physco/CslD1_peptide.fasta,data/physco/renamed/CslD1_peptide_renamed.fasta,CslD1,pep,P.patens v6.1|Pp6c2_740V6.1,CslD1
+data/physco/CslD2_cds.fasta,data/physco/renamed/CslD2_cds_renamed.fasta,CslD2,cds,P.patens v6.1|Pp6c25_10950V6.1 CDS,CslD2
+data/physco/CslD2_genomic.fasta,data/physco/renamed/CslD2_genomic_renamed.fasta,CslD2,genomic,P.patens v6.1|Pp6c25_10950|Chr25:14547643..14554391 forward,CslD2
+data/physco/CslD2_peptide.fasta,data/physco/renamed/CslD2_peptide_renamed.fasta,CslD2,pep,P.patens v6.1|Pp6c25_10950V6.1,CslD2
+data/physco/CslD3_cds.fasta,data/physco/renamed/CslD3_cds_renamed.fasta,CslD3,cds,P.patens v6.1|Pp6c1_21630V6.1 CDS,CslD3
+data/physco/CslD3_genomic.fasta,data/physco/renamed/CslD3_genomic_renamed.fasta,CslD3,genomic,P.patens v6.1|Pp6c1_21630|Chr01:29964254..29969835 forward,CslD3
+data/physco/CslD3_peptide.fasta,data/physco/renamed/CslD3_peptide_renamed.fasta,CslD3,pep,P.patens v6.1|Pp6c1_21630V6.1,CslD3
+data/physco/CslD4_cds.fasta,data/physco/renamed/CslD4_cds_renamed.fasta,CslD4,cds,P.patens v6.1|Pp6c1_21730V6.1 CDS,CslD4
+data/physco/CslD4_genomic.fasta,data/physco/renamed/CslD4_genomic_renamed.fasta,CslD4,genomic,P.patens v6.1|Pp6c1_21730|Chr01:30106789..30114246 reverse,CslD4
+data/physco/CslD4_peptide.fasta,data/physco/renamed/CslD4_peptide_renamed.fasta,CslD4,pep,P.patens v6.1|Pp6c1_21730V6.1,CslD4
+data/physco/CslD5_cds.fasta,data/physco/renamed/CslD5_cds_renamed.fasta,CslD5,cds,P.patens v6.1|Pp6c14_14310V6.1 CDS,CslD5
+data/physco/CslD5_genomic.fasta,data/physco/renamed/CslD5_genomic_renamed.fasta,CslD5,genomic,P.patens v6.1|Pp6c14_14310|Chr14:16938794..16944025 reverse,CslD5
+data/physco/CslD5_peptide.fasta,data/physco/renamed/CslD5_peptide_renamed.fasta,CslD5,pep,P.patens v6.1|Pp6c14_14310V6.1,CslD5
+data/physco/CslD6_cds.fasta,data/physco/renamed/CslD6_cds_renamed.fasta,CslD6,cds,P.patens v6.1|Pp6c6_2210V6.1 CDS,CslD6
+data/physco/CslD6_genomic.fasta,data/physco/renamed/CslD6_genomic_renamed.fasta,CslD6,genomic,P.patens v6.1|Pp6c6_2210|Chr06:3827059..3833990 forward,CslD6
+data/physco/CslD6_peptide.fasta,data/physco/renamed/CslD6_peptide_renamed.fasta,CslD6,pep,P.patens v6.1|Pp6c6_2210V6.1,CslD6
+data/physco/CslD7_cds.fasta,data/physco/renamed/CslD7_cds_renamed.fasta,CslD7,cds,P.patens v6.1|Pp6c2_760V6.2 CDS,CslD7
+data/physco/CslD7_genomic.fasta,data/physco/renamed/CslD7_genomic_renamed.fasta,CslD7,genomic,P.patens v6.1|Pp6c2_760|Chr02:817318..823682 forward,CslD7
+data/physco/CslD7_peptide.fasta,data/physco/renamed/CslD7_peptide_renamed.fasta,CslD7,pep,P.patens v6.1|Pp6c2_760V6.2,CslD7
+data/physco/CslD8_cds.fasta,data/physco/renamed/CslD8_cds_renamed.fasta,CslD8,cds,P.patens v6.1|Pp6c17_11970V6.1 CDS,CslD8
+data/physco/CslD8_genomic.fasta,data/physco/renamed/CslD8_genomic_renamed.fasta,CslD8,genomic,P.patens v6.1|Pp6c17_11970|Chr17:14872983..14879117 reverse,CslD8
+data/physco/CslD8_peptide.fasta,data/physco/renamed/CslD8_peptide_renamed.fasta,CslD8,pep,P.patens v6.1|Pp6c17_11970V6.1,CslD8

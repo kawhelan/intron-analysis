@@ -1,0 +1,30 @@
+file_in,file_out,gene,type,old_id,new_id
+data/amborella/AmTrCSLD1_cds.fasta,data/amborella/renamed/AmTrCSLD1_cds_renamed.fasta,AmTrCSLD1,cds,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.12G126800.1 CDS,AmTrCSLD1
+data/amborella/AmTrCSLD1_genomic.fasta,data/amborella/renamed/AmTrCSLD1_genomic_renamed.fasta,AmTrCSLD1,genomic,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.12G126800|Chr12:48467245..48474115 forward,AmTrCSLD1
+data/amborella/AmTrCSLD1_peptide.fasta,data/amborella/renamed/AmTrCSLD1_peptide_renamed.fasta,AmTrCSLD1,pep,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.12G126800.1.p,AmTrCSLD1
+data/amborella/AmTrCSLD4_cds.fasta,data/amborella/renamed/AmTrCSLD4_cds_renamed.fasta,AmTrCSLD4,cds,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G011100.1 CDS,AmTrCSLD4
+data/amborella/AmTrCSLD4_genomic.fasta,data/amborella/renamed/AmTrCSLD4_genomic_renamed.fasta,AmTrCSLD4,genomic,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G011100|Chr03:1845418..1853262 reverse,AmTrCSLD4
+data/amborella/AmTrCSLD4_peptide.fasta,data/amborella/renamed/AmTrCSLD4_peptide_renamed.fasta,AmTrCSLD4,pep,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G011100.1.p,AmTrCSLD4
+data/amborella/AmTrCSLD5related_cds.fasta,data/amborella/renamed/AmTrCSLD5related_cds_renamed.fasta,AmTrCSLD5related,cds,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G130800.1 CDS,AmTrCSLD5related
+data/amborella/AmTrCSLD5related_genomic.fasta,data/amborella/renamed/AmTrCSLD5related_genomic_renamed.fasta,AmTrCSLD5related,genomic,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G130800|Chr03:47674682..47685975 reverse,AmTrCSLD5related
+data/amborella/AmTrCSLD5related_peptide.fasta,data/amborella/renamed/AmTrCSLD5related_peptide_renamed.fasta,AmTrCSLD5related,pep,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G130800.1.p,AmTrCSLD5related
+data/amborella/AmTrH101G097800_cds.fasta,data/amborella/renamed/AmTrH101G097800_cds_renamed.fasta,AmTrH101G097800,cds,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.01G097800.1 CDS,AmTrH101G097800
+data/amborella/AmTrH101G097800_genomic.fasta,data/amborella/renamed/AmTrH101G097800_genomic_renamed.fasta,AmTrH101G097800,genomic,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.01G097800|Chr01:41438043..41447431 reverse,AmTrH101G097800
+data/amborella/AmTrH101G097800_peptide.fasta,data/amborella/renamed/AmTrH101G097800_peptide_renamed.fasta,AmTrH101G097800,pep,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.01G097800.1.p,AmTrH101G097800
+data/amborella/AmTrH103G005400_cds.fasta,data/amborella/renamed/AmTrH103G005400_cds_renamed.fasta,AmTrH103G005400,cds,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G005400.1 CDS,AmTrH103G005400
+data/amborella/AmTrH103G005400_genomic.fasta,data/amborella/renamed/AmTrH103G005400_genomic_renamed.fasta,AmTrH103G005400,genomic,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G005400|Chr03:1043733..1051827 forward,AmTrH103G005400
+data/amborella/AmTrH103G005400_peptide.fasta,data/amborella/renamed/AmTrH103G005400_peptide_renamed.fasta,AmTrH103G005400,pep,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G005400.1.p,AmTrH103G005400
+data/amborella/AmTrH103G041400_cds.fasta,data/amborella/renamed/AmTrH103G041400_cds_renamed.fasta,AmTrH103G041400,cds,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G041400.1 CDS,AmTrH103G041400
+data/amborella/AmTrH103G041400_genomic.fasta,data/amborella/renamed/AmTrH103G041400_genomic_renamed.fasta,AmTrH103G041400,genomic,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G041400|Chr03:7716752..7728268 forward,AmTrH103G041400
+data/amborella/AmTrH103G041400_peptide.fasta,data/amborella/renamed/AmTrH103G041400_peptide_renamed.fasta,AmTrH103G041400,pep,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G041400.1.p,AmTrH103G041400
+data/amborella/AmTrH103G157900_cds.fasta,data/amborella/renamed/AmTrH103G157900_cds_renamed.fasta,AmTrH103G157900,cds,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G157900.1 CDS,AmTrH103G157900
+data/amborella/AmTrH103G157900_peptide.fasta,data/amborella/renamed/AmTrH103G157900_peptide_renamed.fasta,AmTrH103G157900,pep,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.03G157900.1.p,AmTrH103G157900
+data/amborella/AmTrH105G083700_cds.fasta,data/amborella/renamed/AmTrH105G083700_cds_renamed.fasta,AmTrH105G083700,cds,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.05G083700.1 CDS,AmTrH105G083700
+data/amborella/AmTrH105G083700_genomic.fasta,data/amborella/renamed/AmTrH105G083700_genomic_renamed.fasta,AmTrH105G083700,genomic,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.05G083700|Chr05:34317131..34326934 reverse,AmTrH105G083700
+data/amborella/AmTrH105G083700_peptide.fasta,data/amborella/renamed/AmTrH105G083700_peptide_renamed.fasta,AmTrH105G083700,pep,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.05G083700.1.p,AmTrH105G083700
+data/amborella/AmTrH107G031300_cds.fasta,data/amborella/renamed/AmTrH107G031300_cds_renamed.fasta,AmTrH107G031300,cds,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.07G031300.1 CDS,AmTrH107G031300
+data/amborella/AmTrH107G031300_genomic.fasta,data/amborella/renamed/AmTrH107G031300_genomic_renamed.fasta,AmTrH107G031300,genomic,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.07G031300|Chr07:5712330..5723208 reverse,AmTrH107G031300
+data/amborella/AmTrH107G031300_peptide.fasta,data/amborella/renamed/AmTrH107G031300_peptide_renamed.fasta,AmTrH107G031300,pep,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.07G031300.1.p,AmTrH107G031300
+data/amborella/AmTrH111G095600_cds.fasta,data/amborella/renamed/AmTrH111G095600_cds_renamed.fasta,AmTrH111G095600,cds,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.11G095600.1 CDS,AmTrH111G095600
+data/amborella/AmTrH111G095600_genomic.fasta,data/amborella/renamed/AmTrH111G095600_genomic_renamed.fasta,AmTrH111G095600,genomic,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.11G095600|Chr11:39044440..39056087 reverse,AmTrH111G095600
+data/amborella/AmTrH111G095600_peptide.fasta,data/amborella/renamed/AmTrH111G095600_peptide_renamed.fasta,AmTrH111G095600,pep,A.trichopoda_var._SantaCruz_75_HAP1 v2.1|AmTrH1.11G095600.1.p,AmTrH111G095600
